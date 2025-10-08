@@ -11,5 +11,3 @@ Deskripsi singkat:
 Daftar Kontribusi :
 - Aliya sedang mengubah file ini.
 - Jennia telah menerima collaboration.
-
-ketik apalagi ya
