@@ -1,4 +1,4 @@
 # Daftar Kontribusi
 Format: Nama - Tanggal - Kontribusi - Status (belum/selesai)
 - [ ] Aliya - 2025-10-08 - Menambahkan README.md - Selesai
-- [ ] Jennia - 2025-10-08 - (kosong) - Belum
+- [ ] Jennia - 2025-10-08 - Menambahkan kontribusi di data.txt - Selesai
